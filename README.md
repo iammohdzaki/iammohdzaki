@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
   #### Profile Views
   
-![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{iammohdzaki}/count.svg) 
 
