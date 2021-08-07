@@ -1,3 +1,5 @@
+![](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
 ### Hi there , I'm Zaki!👋
 
 Am a Android Developer in love with Kotlin and Compose. My current focus is on the Android although I've also worked on the BackEnd with Kotlin using Ktor.
