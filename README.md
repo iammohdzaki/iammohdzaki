@@ -12,3 +12,14 @@ Here are some ideas to get you started:
 
 <!--## Skills 🚀-->
 
+<details>
+  <summary>📊 Github Stats</summary>
+
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iammohdzaki&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+
+</details>
+
+  #### Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg) 
+
