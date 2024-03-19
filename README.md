@@ -5,8 +5,8 @@
 Am a Android Developer in love with Kotlin. My current focus is on the Android although I've also worked on the BackEnd with Kotlin using Ktor.
 I enjoy contributing to community by open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/_gloryweaver). My DMs are open.
 
-- 🔭 I’m currently working on my own ToolsHub
-- 🌱 I’m currently learning Backend with Ktor
+- 🔭 I’m currently working on my own open source project BundleTool-UI
+- 🌱 I’m currently learning Ktor and Desktop-Compose 
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [**mohdzaki407@gmail.com**](mailto:mohdzaki407@gmail.com) & [**LinkedIn**](https://www.linkedin.com/in/mohammad-zaki-60448a148/)
 
@@ -17,13 +17,9 @@ I enjoy contributing to community by open source projects. I also love catching 
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api?username=iammohdzaki&show_icons=true&theme=default" alt="Zaki's Stats" /> 
 
-<details>
-  <summary>📊 Github Stats</summary>
-
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iammohdzaki&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammohdzaki&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
   #### Profile Views
   
