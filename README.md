@@ -2,20 +2,12 @@
 
 ### Hi there , I'm Zaki!👋
 
-Am a Android Developer in love with Kotlin. My current focus is on the Android although I've also worked on the BackEnd with Kotlin using Ktor.
-I enjoy contributing to community by open source projects. I also love catching up with other developers. Feel free to reach out on [Twitter](https://twitter.com/_gloryweaver). My DMs are open.
+Welcome to my GitHub realm! I am a passionate Android Developer, wielding the power of Kotlin to create amazing mobile experiences. Currently, my focus is on Android development, but my adventures also take me into the world of backend development with Ktor. I love contributing to the community through open-source projects and connecting with fellow developers.
 
-- 🔭 I’m currently working on my own open source project Kotlibs-WASM
-- 🌱 I’m currently learning Ktor and Desktop-Compose 
-- 👯 I’m looking to collaborate on open source projects
+- 📚 Skill Upgrades: Mastering the arts of Ktor and Desktop-Compose.
+- 👫 Party Recruitment: Looking for fellow adventurers to join me in open-source collaborations.
+- 📜 Achievements Unlocked: Published multiple Kotlin libraries, developed a desktop app (Bundle Tool UI) and worked with Ktor, Kotlin Multiplatform and WASM.
 - 📫 How to reach me: [**mohdzaki407@gmail.com**](mailto:mohdzaki407@gmail.com) & [**LinkedIn**](https://www.linkedin.com/in/mohammad-zaki-60448a148/)
-
-## Skills 🚀
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=iammohdzaki&show_icons=true&theme=default" alt="Zaki's Stats" /> 
 
